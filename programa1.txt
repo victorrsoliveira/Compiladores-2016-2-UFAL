@@ -1,0 +1,8 @@
+function void main () {
+    int a = -2;
+ int        b =           incr  (       a);
+                char letter = 'a'   ;
+ string str = "cadeiaCaractere" ;
+ float c_x =        2.36;
+ return;        
+}
